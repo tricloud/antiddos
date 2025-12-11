@@ -1,0 +1,6 @@
+framework module Netshield {
+  umbrella header "LibNetshield.h"
+
+  export *
+  module * { export * }
+}
