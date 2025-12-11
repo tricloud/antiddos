@@ -16,5 +16,13 @@ telegram：@youxidun
 <img width="1280" height="784" alt="image" src="https://github.com/user-attachments/assets/836a6b12-25df-4423-be6a-3207d95d8fa7" />
 <img width="1280" height="782" alt="image" src="https://github.com/user-attachments/assets/69c2b1e8-941a-43ed-ae84-a1b3a4aabdd1" />
 <img width="1280" height="785" alt="image" src="https://github.com/user-attachments/assets/3aec3369-f4cc-42a2-b677-9d6cb2012d7e" />
+"SaaS版： 
+
+最高可承载百万级日活量
+租户隔离性强
+支持更细粒度的节点池隔离能力
+具备更优性能及攻击封禁效果
+增强可观测性能力
+用户平台交互体验更优"		
 
 telegram：@youxidun
